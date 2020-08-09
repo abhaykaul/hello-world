@@ -49,47 +49,6 @@ title="Image1">
         <td>CHATING</td>
     </tr>
 </table>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<h1><em>Fill The Form</em></h1>
-<form>
- <table>
-<tr>
-    <td>EMAIL ADDRESS</td>
-    <td><Input type="text"
-        placeholder="Enter Your Email Address"></td>
-</tr>
-<tr>
-    <td>NAME</td>
-    <td><Input Type="text"
-        placeholder="Enter Your Name"></td>
-</tr>
-<tr>
-        <td>PASSWORD</td>
-        <td><Input Type="password"
-            placeholder="Enter Your Password"></td>
-    </tr>
-    <tr>
-    <td>Department: </td>
-    <td><Input type="radio"name="1"> IT
-        <Input type="radio"name="1"> CS
-        <Input type="radio"name="1"> TC
-        <Input type="radio"name="1"> TRONIX
-        <Input type="radio"name="1"> TRICAL  
-            </td>
-            <tr>
-                <td><input type="submit" Value="Abhay">
-                    <input type="reset" Value="reset">
-                </td>
-              </tr>
-              </table>
-              </form>
               </body>
               </html>
 
